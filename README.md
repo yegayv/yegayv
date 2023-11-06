@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next JS, Tailwind CSS, React JS, VueJS**
 
-- 👨‍💻 All of my projects are available at [yegayvadim.dev](yegayvadim.dev)
+<!-- - 👨‍💻 All of my projects are available at [yegayvadim.dev](yegayvadim.dev) -->
 
 - 📫 How to reach me **yegayvadim@gmail.com**
 
