@@ -7,7 +7,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [yegayvadim.dev](yegayvadim.dev) -->
 
-- 📫 How to reach me **yegayvadim@gmail.com**
+- 📫 How to reach me: **yegayvadim@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
